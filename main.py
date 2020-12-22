@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 def main():
   print("In main()")
   a = [i for i in range(51) if i % 2 == 0]
